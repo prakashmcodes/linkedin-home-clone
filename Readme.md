@@ -3,7 +3,7 @@
 ## 📸 Screenshot
 ![LinkedIn Feed UI Clone](screenshot.png)
 
-This project is a **UI clone of the LinkedIn Home**, built as part of my internship at **CyberDude Networks Private Limited**.
+This project is a **UI clone of the LinkedIn**, built as part of my internship at **CyberDude Networks Private Limited**.
 
 The goal of this project was to understand and practice modern layout techniques using **CSS Grid** and **Flexbox** with **Tailwind CSS**.
 
