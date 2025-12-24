@@ -15,7 +15,7 @@ The goal of this project was to understand and practice modern layout techniques
 - Building complex layouts using **Grid**
 - Aligning and structuring components using **Flexbox**
 - Creating clean and reusable UI sections
-- Improving UI consistency and spacing
+- Improving UI and spacing
 
 
 ## ⚠️ Note
